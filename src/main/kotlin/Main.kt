@@ -1,5 +1,5 @@
+var menu = Menu()
 fun main() {
-    println()
-
+    menu.start()
 
 }
